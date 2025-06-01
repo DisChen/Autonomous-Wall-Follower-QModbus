@@ -1,0 +1,13 @@
+debug/modbus-data.o
+debug/modbus-tcp.o
+debug/modbus.o
+debug/ipaddressctrl.o
+debug/iplineedit.o
+debug/main.o
+debug/mainwindow.o
+debug/qcustomplot.o
+debug/qrc_qmodbus.o
+debug/moc_ipaddressctrl.o
+debug/moc_iplineedit.o
+debug/moc_mainwindow.o
+debug/moc_qcustomplot.o

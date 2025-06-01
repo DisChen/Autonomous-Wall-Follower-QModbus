@@ -1,0 +1,11 @@
+release/modbus-data.o
+release/modbus-tcp.o
+release/modbus.o
+release/ipaddressctrl.o
+release/iplineedit.o
+release/main.o
+release/mainwindow.o
+release/qrc_qmodbus.o
+release/moc_ipaddressctrl.o
+release/moc_iplineedit.o
+release/moc_mainwindow.o

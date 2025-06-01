@@ -1,0 +1,11 @@
+2025-04-20 18:29:44   -   This sensor reads: 65
+2025-04-20 18:29:44   -   This sensor reads: 58
+2025-04-20 18:29:45   -   This sensor reads: 96
+2025-04-20 18:29:46   -   This sensor reads: 50
+2025-04-20 18:29:46   -   This sensor reads: 84
+2025-04-20 18:29:46   -   This sensor reads: 93
+2025-04-20 18:29:47   -   This sensor reads: 49
+2025-04-20 18:29:48   -   This sensor reads: 50
+2025-04-20 18:29:49   -   This sensor reads: 49
+2025-04-20 18:29:49   -   This sensor reads: 49
+2025-04-20 18:29:50   -   This sensor reads: 50

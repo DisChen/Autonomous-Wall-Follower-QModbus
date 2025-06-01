@@ -1,0 +1,11 @@
+2025-04-20 18:29:43   -   This sensor reads: 350
+2025-04-20 18:29:44   -   This sensor reads: 351
+2025-04-20 18:29:45   -   This sensor reads: 349
+2025-04-20 18:29:45   -   This sensor reads: 349
+2025-04-20 18:29:46   -   This sensor reads: 346
+2025-04-20 18:29:46   -   This sensor reads: 352
+2025-04-20 18:29:47   -   This sensor reads: 353
+2025-04-20 18:29:48   -   This sensor reads: 354
+2025-04-20 18:29:48   -   This sensor reads: 350
+2025-04-20 18:29:49   -   This sensor reads: 349
+2025-04-20 18:29:49   -   This sensor reads: 350
