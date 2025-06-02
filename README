@@ -1,0 +1,21 @@
+Autonomous Wall Follower using QModbus
+
+(as a final case project for Algorithm, Programming, and Data Structure 2 Swiss German University)
+
+This project is made by:
+- Brilliant Manuel Leonard - 12401006
+- Richard Geraldo Warly - 12401005
+- Adalrico Widyakso - 12401060
+- Mikhail Christiano Novus - 12401
+
+This is a project combining the basic design of an autonomous wall follower with the function of a wifi-connected control panel.
+The logic for this autonomous wall follower robot is written in the client (Qt) and connected through the QModbus library and Modbus-esp8266 library (linked below).
+For more information regarding this project, you may see the case project report:
+https://docs.google.com/document/d/1gAldI3Jw8F6nFqGZo3GhUsoSI-_fwcQoBtbL9ln5E28/edit?usp=sharing
+
+Libraries used:
+
+QModbus - https://qmodbus.sourceforge.net
+QCustomPlot - https://www.qcustomplot.com/index.php/introduction
+Modbus ESP8266 - https://github.com/emelianov/modbus-esp8266
+Adafruit VL503LOX - https://github.com/adafruit/Adafruit_VL53L0X
